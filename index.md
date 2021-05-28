@@ -3,7 +3,7 @@ title: "A little bit about me"
 date: 2021-05-28
 ---
 
-I am a Bharathanatyam dancer - I have danced for 12 years of my life. I have 3D printed PPE as part of an organization called united3D. I love volunteering and giving back to the society in various ways through Key Club. That's a little bit about me! 
+I am a Bharathanatyam dancer; I have danced for 12 years of my life. I have 3D printed PPE as part of an organization called united3D. I love volunteering and giving back to the society in various ways through Key Club. That's a little bit about me! 
 
 instagram_username: shree_balaram
 
