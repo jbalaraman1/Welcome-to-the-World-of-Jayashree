@@ -1,5 +1,5 @@
 ---
-title: "Jayashree Balaraman"
+title: Jayashree Balaraman
 date: 2021-05-28
 ---
 
