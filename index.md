@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jayashree Balaraman"
 date: 2021-05-28
 ---
