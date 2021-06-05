@@ -8,5 +8,4 @@ My name is Jayashree Balaraman. I am a Bharathanatyam dancer; I have danced for 
 
 instagram_username: shree_balaram
 
-image: ![jayashree-balaraman](https://user-images.githubusercontent.com/84856290/120000043-667be400-bfa0-11eb-983c-6e0d80f4ef54.jpeg)
-
+image: ![1580bf7c-f388-41f3-9c79-bc7734612a03 (1)](https://user-images.githubusercontent.com/84856290/120892649-59cd4080-c5dd-11eb-849b-a4e1b5dd4dff.jpg)
