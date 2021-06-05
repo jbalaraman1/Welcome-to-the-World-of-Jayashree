@@ -1,7 +1,7 @@
 2021-05-28
 
 
-My name is Jayashree Balaraman. A rising Senior at East Brunswick High School, my passion is STEM and medical career. I am a certified Bharathanatyam dancer, I have danced for 12 years of my life. I have 3D printed PPE as part of an organization called united3D. I love volunteering and giving back to the society in various ways through Key Club. That's a little bit about me!
+My name is Jayashree Balaraman. I am a rising senior at East Brunswick High School.My passion revolves in STEM and I want to pursue a medical career in the future. I am a certified Bharathanatyam dancer; I have danced for 12 years of my life and have completed my Aragetram (my dance graduation). During the pandemic, I also gave back to the society by 3D printing units of PPE as part of an organization called united3D. I love volunteering and giving back to the society in various ways including through Key Club. That's a little bit about me!
 
 
 instagram_username: shree_balaram
