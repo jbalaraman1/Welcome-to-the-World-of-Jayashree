@@ -6,4 +6,4 @@ My name is Jayashree Balaraman. A rising Senior at East Brunswick High School, m
 
 instagram_username: shree_balaram
 
-image: ![1580bf7c-f388-41f3-9c79-bc7734612a03 (1)](https://user-images.githubusercontent.com/84856290/120892649-59cd4080-c5dd-11eb-849b-a4e1b5dd4dff.jpg)
+![1580bf7c-f388-41f3-9c79-bc7734612a03 (1)](https://user-images.githubusercontent.com/84856290/120892649-59cd4080-c5dd-11eb-849b-a4e1b5dd4dff.jpg)
